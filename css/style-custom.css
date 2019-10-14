@@ -62,7 +62,7 @@ a:hover {
 
 .box-shadow-a,
 .button:hover {
-  box-shadow: 0 0 0 4px #D7EE89;
+  box-shadow: 0 0 0 4px #E4BD5C;
 }
 
 .display-5 {
@@ -150,7 +150,7 @@ a:hover {
 }
 
 .title-a {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -223,9 +223,7 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
-  background-color: #22433a;
-  color: #fff;
-  box-shadow: 0 0 0 3px #D7EE89;
+  box-shadow: 0 0 0 3px #E4BD5C;
   transition: all 500ms ease;
 }
 
@@ -281,19 +279,19 @@ a:hover {
   width: 18px;
   height: 7px;
   margin: 5px 5px;
-  background: #D7EE89;
-  border: 0px solid #D7EE89;
+  background: #1B1B1B;
+  border: 0px solid #1B1B1B;
   display: block;
   transition: all 0.6s ease-in-out;
   cursor: pointer;
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #D7EE89;
+  background-color: #1B1B1B;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #1B1B1B;
+  background-color: #E4BD5C;
   width: 25px;
 }
 
@@ -658,11 +656,11 @@ a:hover {
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
-  color: #D7EE89;
+  color: #E4BD5C;
 }
 
 .intro-single .breadcrumb .breadcrumb-item.active {
-  color: #D7EE89;
+  color: #E4BD5C;
 }
 
 .intro-single .breadcrumb a {
@@ -691,7 +689,7 @@ a:hover {
 }
 
 .skill-mf .progress {
-  background-color: #D7EE89;
+  background-color: #E4BD5C;
   margin: .5rem 0 1.2rem 0;
   border-radius: 0;
   height: .7rem;
@@ -703,7 +701,7 @@ a:hover {
 }
 
 /*======================================
-//--//-->   SERVICES
+//--//-->   MY STACK
 ======================================*/
 
 .service-box {
@@ -713,16 +711,9 @@ a:hover {
   margin-bottom: 3rem;
 }
 
-.service-box:hover .ico-circle {
-  transition: all 500ms ease;
-  color: #fff;
-  background-color: #22433a;
-  box-shadow: 0 0 0 10px #D7EE89;
-}
-
 .service-box .service-ico {
-  margin-bottom: 1rem;
   color: #1e1e1e;
+  margin-bottom: 1rem;
 }
 
 .service-box .ico-circle {
@@ -731,7 +722,9 @@ a:hover {
 }
 
 .service-box .s-title {
-  font-size: 1.4rem;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
   text-transform: uppercase;
   text-align: center;
   padding: .4rem 0;
@@ -758,7 +751,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.8;
-  box-shadow: 0 0 0 10px #D7EE89;
+  box-shadow: 0 0 0 10px #E4BD5C;
 }
 
 .counter-num .counter {
@@ -1152,7 +1145,7 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #D7EE89;
+  background-color: #E4BD5C;
   color: #fff;
   transition: all 500ms ease;
 }
@@ -1160,7 +1153,7 @@ footer .credits a {
 .button-a {
   background-color: #22433a;
   color: #fff;
-  border-color: #D7EE89;
+  border-color: #E4BD5C;
 }
 
 .button-big {
