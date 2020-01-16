@@ -1146,6 +1146,10 @@ footer .credits a {
   cursor: pointer;
 }
 
+.button-filled {
+  background-color: #E4BD5C;
+}
+
 .button:focus {
   outline: 0;
 }
