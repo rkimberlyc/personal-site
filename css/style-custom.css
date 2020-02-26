@@ -193,6 +193,11 @@ a:hover {
   bottom: -12px;
 }
 
+.title-left-plain {
+  font-size: 2rem;
+  position: relative;
+}
+
 /*------/ Box /------*/
 
 .box-pl2 {
